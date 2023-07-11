@@ -26,7 +26,7 @@ function identificarMayor(num1, num2) {
     }
     if (num1 == num2) {
         console.log(num1 + ' y ' + num2 + ' son iguales')
-     }
+    }
 }
 
 console.log('Ejercicio Nº 2')
@@ -111,6 +111,7 @@ function multiplicarArray(array, numero) {
     });
 }
 
+console.log('Ejercicio Nº 8')
 const lastArray = [31, 212, 64, 314, 223];
 const multiplicador = 3;
 multiplicarArray(lastArray, multiplicador);
